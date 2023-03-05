@@ -1,10 +1,12 @@
 ## Tailwind Components
 
-This repository contains Tailwind Components which I (Mbaziira), created while learning and practicing TailwindCSS. 
+I created this repository to help you learn and practice your skills in Tailwind CSS.
 
-I have created the repository in hopes that these components can be used by anyone who is currently learning/practicing his skills with Tailwind. 
+Feel free to fork, clone, or share it with your friends if you find it useful. 
 
-Kindly give it a star if you find it helpful or share it with others. 
+Don't forget to give it a star too 💫 😉
+
+Happy learning. Happy coding! 
 
 | Component                                                                       | Description                                                           | Level          |
 | :------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :------------- |
