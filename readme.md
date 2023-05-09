@@ -1,4 +1,4 @@
-## Tailwind Components
+# Tailwind Components
 
 I created this repository to help you learn and practice your skills in Tailwind CSS.
 
@@ -6,7 +6,20 @@ Feel free to fork, clone, or share it with your friends if you find it useful.
 
 Don't forget to give it a star too 💫 😉
 
-Happy learning. Happy coding! 
+Happy learning. Happy coding!
+
+
+## Resources 
+This section contains resources that can help you take your Tailwind CSS skills to the next level. Most components here have been 
+created using the concepts of CSS Flexbox and Grid, and as such, the resources below will help you polish your skills in these concepts and more. 
+
+1. [Level Up with Tailwind CSS](https://gumroad.com/a/476819155) - eBook
+2. [Complete Guide to CSS Flex and Grid](https://gumroad.com/a/476819155) - eBook
+3. [Tailwind Play](https://gumroad.com/a/476819155) - Playground to practice Tailwind CSS
+4. [Tailwind CSS Docs](https://tailwindcss.com/docs/responsive-design) - Official Tailwind CSS Docs
+
+<br>
+
 
 | Component                                                                       | Description                                                           | Level          |
 | :------------------------------------------------------------------------------ | :-------------------------------------------------------------------- | :------------- |
